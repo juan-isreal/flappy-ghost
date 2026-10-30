@@ -2,7 +2,7 @@
 <h2>
   Flappy Bird clone written entirely in <span>Python <i>(python.org)</i><span>
   <i>
-    \n
+    <br>
     written by a beginner programmer learning pygame.
   </i>
 </h2>
