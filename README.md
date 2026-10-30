@@ -1,8 +1,9 @@
 <h1>Flappy Ghost/h1>
-<h2 style="text-decoration: none;">
+<p style="
+  font-size: 24px; font-weight: bold; margin-bottom: 0;">
   Flappy Bird clone written entirely in <span>Python <i>(python.org)</i><span>
   <i>
     <br>
     written by a beginner programmer learning pygame.
   </i>
-</h2>
+</p>
