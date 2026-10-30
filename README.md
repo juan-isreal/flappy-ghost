@@ -1,3 +1,1 @@
-# Flappy Ghost
-## Flappy Bird Clone written in Python 3.13 using pygame. 
-### **This was created as a starter project for python game development for me!**
+<h1>Flappy Bird clone written entirely in Python <span font-style="italic">(python.org)</span>.</h1>
